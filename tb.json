@@ -2,14 +2,14 @@
 //http://williamc.tplinkdns.com/iptv/fav.json
 //http://williamc.ddns.net/iptv/fav.json
 //http://winniec.ddns.net/iptv/favnet.json
-//https://raw.githubusercontent.com/s14685/tv/main/favgh.json
-//https://raw.githubusercontent.com/s14685/tv/main/tbvgh.json
+//https://raw.githubusercontent.com/454414308/tv/main/favgh.json
+//https://raw.githubusercontent.com/454414308/tv/main/tbvgh.json
 
-//http://williamc.tplinkdns.com/iptv/js/ -> https://raw.githubusercontent.com/s14685/tv/main/js/
+//http://williamc.tplinkdns.com/iptv/js/ -> https://raw.githubusercontent.com/454414308/tv/main/js/
 //http://williamc.tplinkdns.com/iptv/js/HCCX.jar -> https://raw.liucn.cc/box/libs/jar/HCCX.jar
 
 //https://raw.liucn.cc/box/libs/jar/HCCX.jar
-//https://raw.githubusercontent.com/s14685/tv/main/js/HCCX.jar
+//https://raw.githubusercontent.com/454414308/tv/main/js/HCCX.jar
 //"spider": "https://raw.liucn.cc/box/fty.jar;md5;8b8d1018ca0b29c22cf681e2db55d38f",
 //"线路数组":"data-dropdown-value=&&</div>[不包含:夸克#][替换:</span><small>>>️⚡️ #线路1>>豪华#线路2>>量子#线路3>>优质#线路4>>索尼#线路5>>乐视#线路6>>非凡#线路7>>优酷]", "请求头":"手机","免嗅": "0",
 //"线路标题":"🌸+<span>&&</small>[排序:黑木耳>量子>非凡>华为吧>天空>卧龙>优质>高清>爱坤>海外>乐视>闪电>索尼>无尽>红牛>极速>独家>专线>乐视>爱奇艺>蓝光>奇艺>优酷>搜狐>推荐>极速>高清>暴风>超清>蓝光>备用>本站>稳定>国内>速播>金鹰]",
@@ -28,7 +28,7 @@
 {"key":"视频MBBS","name":"🎨MBBS🎨","type":3,"api":"https://my9.ltd/tv/js/zbzdb.js","searchable":1,"quickSearch":0,"filterable":0,"playerType":1,"ext":"http://williamc.tplinkdns.com/iptv/js/MBBS.json"},
 
 {"key":"csp_剧圈圈","name":"🌈剧圈圈🌿9","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/剧圈圈.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
-{"key":"api_黑木耳🎯","name":"🎯黑木耳资源🍏2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/api黑木耳.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
+{"key":"api_黑木耳🎯","name":"🎯黑木耳资源🍏2","type":3,"api":"csp_XBPQ"，"searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/api黑木耳.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
 {"key":"api_非凡资源🎯","name":"🎯非凡资源🍏2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/api非凡.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
 
 {"key":"csp_海兔影院","name":"🌈海兔影院🍏️4","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/海兔影院.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
